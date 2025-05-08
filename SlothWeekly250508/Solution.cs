@@ -16,14 +16,14 @@ static class Solution
         int lastNumber = numbers[0];
         int consecutiveNumberCount = 1;
 
-        for (int i = 1; i < numbers.Length; i++)
+        foreach (int number in numbers)
         {
-            if (Math.Abs(numbers[i] - lastNumber) == 1)
+            if (Math.Abs(number - lastNumber) == 1)
             {
                 if (++consecutiveNumberCount == 3) return false;
             }
             else consecutiveNumberCount = 1;
-            lastNumber = numbers[i];
+            lastNumber = number;
         }
 
         return true;
