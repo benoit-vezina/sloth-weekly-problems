@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlothWeekly250508", "SlothWeekly250508\SlothWeekly250508.csproj", "{020BD5E3-005C-4A0C-94FB-4704ED986999}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlothWeeklyNoYelling", "SlothWeeklyNoYelling\SlothWeeklyNoYelling.csproj", "{8A0C3460-FAAE-44CE-811C-ED002AD29C9B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,18 @@ Global
 		{020BD5E3-005C-4A0C-94FB-4704ED986999}.Release|x64.Build.0 = Release|Any CPU
 		{020BD5E3-005C-4A0C-94FB-4704ED986999}.Release|x86.ActiveCfg = Release|Any CPU
 		{020BD5E3-005C-4A0C-94FB-4704ED986999}.Release|x86.Build.0 = Release|Any CPU
+		{8A0C3460-FAAE-44CE-811C-ED002AD29C9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A0C3460-FAAE-44CE-811C-ED002AD29C9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A0C3460-FAAE-44CE-811C-ED002AD29C9B}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{8A0C3460-FAAE-44CE-811C-ED002AD29C9B}.Debug|x64.Build.0 = Debug|Any CPU
+		{8A0C3460-FAAE-44CE-811C-ED002AD29C9B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{8A0C3460-FAAE-44CE-811C-ED002AD29C9B}.Debug|x86.Build.0 = Debug|Any CPU
+		{8A0C3460-FAAE-44CE-811C-ED002AD29C9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A0C3460-FAAE-44CE-811C-ED002AD29C9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A0C3460-FAAE-44CE-811C-ED002AD29C9B}.Release|x64.ActiveCfg = Release|Any CPU
+		{8A0C3460-FAAE-44CE-811C-ED002AD29C9B}.Release|x64.Build.0 = Release|Any CPU
+		{8A0C3460-FAAE-44CE-811C-ED002AD29C9B}.Release|x86.ActiveCfg = Release|Any CPU
+		{8A0C3460-FAAE-44CE-811C-ED002AD29C9B}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
